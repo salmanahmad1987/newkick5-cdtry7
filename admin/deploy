@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SPACE="dev"
+SPACE="kick"
 DOMAIN="mybluemix.net"
 
 ## Begin: bridge app creation and startup
