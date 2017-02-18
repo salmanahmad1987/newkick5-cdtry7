@@ -20,7 +20,7 @@ cf create-service \
 	bridge-app-object-store;
 
 	
-cf push;
+cf push --no-manifest no-start;
 
 ## End: bridge app creation and startup
 
